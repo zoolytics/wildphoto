@@ -6,3 +6,5 @@ Run Analysis
 
 Make Table
 
+Make small figure
+
